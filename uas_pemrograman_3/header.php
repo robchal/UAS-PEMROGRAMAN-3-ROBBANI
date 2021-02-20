@@ -139,6 +139,9 @@
               <a class="collapse-item" href="input_satuan.php"
                 >Input Satuan</a
               >
+              <a class="collapse-item" href="laporan_transaksi.php"
+                >Laporan Transaksi</a
+              >
                     </div>
                 </div>
             </li>
